@@ -1,0 +1,4 @@
+liip_open_pixel_client:
+    resource: "@LiipOpenPixelClientBundle/Resources/config/routing.xml"
+    prefix:   /
+
